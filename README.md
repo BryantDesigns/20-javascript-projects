@@ -1,1 +1,1 @@
-Some random JavaScript Projects
+# Some random JavaScript Projects
